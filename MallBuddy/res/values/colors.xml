@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme1">#EC1B3B</color>
+    <color name="theme2">#F9A61A</color>
+    <color name="theme3">#BED731</color>
+    <color name="theme4">#FFCC01</color>
+    <color name="theme5">#00A54F</color>
+    <color name="theme6">#A1D5ED</color>
+
+</resources>
